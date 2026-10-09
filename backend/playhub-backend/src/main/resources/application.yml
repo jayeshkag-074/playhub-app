@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: playhub-backend
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/playhub_db
+    username: root
+    password: root
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+server:
+  port: 8081
