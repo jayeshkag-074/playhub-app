@@ -7,7 +7,7 @@ PlayHub is a sports venue booking application designed to help users discover sp
 
 The platform aims to simplify sports venue discovery and booking through a user-friendly interface and a RESTful backend.
 
-## ✨ Features
+## ✨ Features!
 
 - 🏟️ Browse and explore sports venues
 - 🔍 Search for venues by sport or location
