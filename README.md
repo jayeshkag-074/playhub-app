@@ -44,7 +44,7 @@ The platform aims to simplify sports venue discovery and booking through a user-
 - Visual Studio Code
 - Postman
 
-## 🏗️ Project Structure
+## 🏗️ Project Structure!
 
 ```text
 playhub-app/
