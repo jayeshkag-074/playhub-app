@@ -20,7 +20,7 @@ The platform aims to simplify sports venue discovery and booking through a user-
 
 > Note: Update this feature list to match the features currently implemented in your application.
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack!
 
 ### Frontend
 - Angular
