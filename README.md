@@ -28,7 +28,7 @@ The platform aims to simplify sports venue discovery and booking through a user-
 - CSS3
 - TypeScript
 
-### Backend
+### Backend!
 - Java
 - Spring Boot
 - Spring Web
